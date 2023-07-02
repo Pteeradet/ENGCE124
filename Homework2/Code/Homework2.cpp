@@ -1,3 +1,6 @@
+//Program Data Representation Ver 2.0
+//The program will show value in any data types.
+//==================================================================
 #include <stdio.h> //use printf()
 #include <conio.h> //use getch()
 char ch; //KBD Read variable
